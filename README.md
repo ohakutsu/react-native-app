@@ -1,4 +1,4 @@
-# ReactNativeで個人的に作成したアプリ
+# React Nativeで個人的に作成したアプリ
 
 2019年8月に作成したもの
 
@@ -19,4 +19,4 @@ https://expo.io/@takuyahanada/morioka-trash-react-native-app
 
 3. おしまい
 
-※ iOSでは、アプリの管理者でないとExpoアプリから起動することができないという仕様になっているらしい。
+※ iOSでは、開発者でないとExpoアプリから起動することができないという仕様になっているらしい。
